@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215311716552",
+    "project_id": "tic-tok-clone-6612d",
+    "storage_bucket": "tic-tok-clone-6612d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215311716552:android:f2016ccd81b62ffe9395fd",
+        "android_client_info": {
+          "package_name": "com.example.tictoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215311716552-o25aldan4ji25pmapq17dv7i6md85mlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ma_ERdKUu62oPNou7fqUxiDHeUir-oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215311716552-o25aldan4ji25pmapq17dv7i6md85mlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
